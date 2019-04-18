@@ -20,7 +20,7 @@ vue 2.9.6
 部署步骤
 =
 
-进入elasticsearch文件中的bin文件 在终端中输入： 
+进入elasticsearch文件中的bin文件 在终端中输入：   
 <code>
 ./elasticsearch start
 </code>  
