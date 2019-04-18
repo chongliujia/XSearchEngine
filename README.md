@@ -5,9 +5,11 @@
 
 功能特性
 ======
+
 可以进行实时搜索
 环境依赖
 ======
+
 UNIX/LINUX   
 scrapy 1.4.0  
 python 3.6.8  
@@ -16,6 +18,7 @@ node v8.11.2
 vue 2.9.6 
 部署步骤
 ======
+
 进入elasticsearch文件中的bin文件 在终端中输入： 
 <code>
 ./elasticsearch start
@@ -24,6 +27,7 @@ vue 2.9.6
 <code>
 node index.js
 </code>
+
 项目最终效果图
 ===========
 ![Alt text](image/demo.png)
